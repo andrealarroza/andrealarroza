@@ -6,7 +6,7 @@
 
 👩🏻‍💻 Front-end developer at [Porta](https://www.porta.com.py/).
 
-🧠 I'm currently learning Full-stack Javascript.
+🌱 I'm currently learning Full-stack JavaScript.
 
 
 ## 🛠 My stack
@@ -22,6 +22,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-0078d7?&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078d4?&logo=Windows&logoColor=white)
 
 
 
