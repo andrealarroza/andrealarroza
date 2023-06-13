@@ -6,9 +6,6 @@
 
 👩🏻‍💻 Front-end developer at [Porta](https://www.porta.com.py/).
 
-🌱 I'm currently learning Full-stack JavaScript.
-
-
 ## 🛠 My stack
 
 ### Languages & frameworks
