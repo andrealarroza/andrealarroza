@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-👩🏻‍💻 SSR Software Engineer at [ITTI Digital](https://www.itti.digital/).
+👩🏻‍💻 SSR Software Engineer at [itti](https://www.itti.digital/).
 
 
 
